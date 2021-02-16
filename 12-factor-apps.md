@@ -4,6 +4,11 @@
 
 ## What are 12 Factors?
 
+*Making a draft*
+
+1. One
+1. Two
+1. Three
 
 
 [Back to Home][HOME]
